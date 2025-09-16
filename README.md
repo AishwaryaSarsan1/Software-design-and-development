@@ -13,11 +13,8 @@
 #### A cutting edge web application called Smart Nutrition and Food Management assists users in eating better and wasting less. It tracks daily caloric intake, offers grocery expiration alerts, and recommends recipes with goods that are about to expire. Combining food management with nutrition tracking delivers a practical, user-friendly solution to two everyday problems in a single platform. 
 ## Target Users: 
 **Students & Families**:  To organize groceries and reduce waste. 
-
-Health-conscious individuals:  To track calorie intake and nutrition. 
-
-Fitness enthusiasts:  Monitor diet closely to achieve fitness goals. 
-
-Small restaurants/cafes:  To manage stock efficiently and cut losses. 
+**Health-conscious individuals**:  To track calorie intake and nutrition. 
+**Fitness enthusiasts**:  Monitor diet closely to achieve fitness goals. 
+**Small restaurants/cafes**:  To manage stock efficiently and cut losses. 
 
 
