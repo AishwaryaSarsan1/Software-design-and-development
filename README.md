@@ -20,6 +20,25 @@ A cutting edge web application called Smart Nutrition and Food Management assist
 
 **Small restaurants/cafes**:  To manage stock efficiently and cut losses. 
 ## Key Features: 
-- **Food Inventory and Expiry Tracking:** Users will be able to record food items as soon as they are bought using the app's digital inventory system. Better organization is made possible by the ability to classify items into storage kinds like pantry, freezer, and refrigerator. When an item is about to expire, the system will promptly notify users and automatically check the shelf life of the items kept. This feature ensures that users are reminded to consume food before it spoils, significantly reducing household and commercial food wastage. 
+- **Food Inventory and Expiry Tracking:** Users will be able to record food items as soon as they are bought using the app's digital inventory system. Better organization is made possible by the ability to classify items into storage kinds like pantry, freezer, and refrigerator. When an item is about to expire, the system will promptly notify users and automatically check the shelf life of the items kept. This feature ensures that users are reminded to consume food before it spoils, significantly reducing household and commercial food wastage.
+- **Calorie and Nutrition Calculator:** To help users reach their exercise and health goals, the app will include a built-in calorie and nutrition calculator. Through a reliable database, users may quickly and easily enter food items. Daily meals will be tracked by the system, which will also offer comprehensive nutritional analyses that include information on calories, carbs, proteins, fats, vitamins, and minerals.
+- **Innovative Recipe Suggestions:** Promoting a healthy diet and cutting down on waste will be the top priorities for the recipe suggestion engine. Using artificial intelligence and APIs, the app will recommend recipes using products that are about to expire. In order to reduce food waste and assist consumers in making informed dietary choices, the suggested meals will provide calorie and nutritional breakdowns. This feature also increases convenience by allowing customers to prepare meals using their existing ingredients rather than needlessly buying new ones.
+- **Dashboard and Analytics:** Users will have clear, visual insights into their nutritional progress and food management through a central dashboard. Households and restaurants will be able to gauge efficiency by using graphs and charts that show the amount of food consumed versus wasted. Households and eateries will be able to gauge efficiency thanks to graphs and charts that show food consumption vs waste. In a similar manner, the system will contrast dietary or fitness objectives with trends in calorie intake.
+## Feasibility Check: 
+- **Timely Considerations:** The proposed Smart Nutrition & Food Management App can be completed within a semester because we designed it to balance innovation and practicality by focusing on essential features such as inventory management, calorie tracking, recipe suggestions, and analytics. These components can be developed incrementally, with the front-end and back-end progressing in parallel. Since APIs like Nutritionix, Edamam, and Spoonacular provide ready-made nutrition and recipe data, we can reduce the development timeline because we do not need to build datasets from scratch. By dividing tasks properly and applying agile development practices, we can realistically implement and test the project within the given course duration.
+- **Team Skills:** We can do the project using our existing skills.
+1. Front-end: HTML, CSS, JavaScript, Chart.js (JavaScript library to show the graphs). 
+
+2. Back-end: PHP (handle requests, API calls, and data storage). 
+
+3. Database: MySQL (to store the food items, expiry dates, user info, and calorie logs). 
+
+4. Server: XAMPP. 
+
+5. API:  Nutritionix(to fetch calories/nutrients) Note: this needs to be learned and worked on.  Spoonacular API (new) to display recipe cards with images and nutritional info. 
+
+6. Platform: Visual studio 
+
+ 
 
 
