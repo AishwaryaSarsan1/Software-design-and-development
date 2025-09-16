@@ -7,5 +7,17 @@
 #### Aishwarya Reddy Sarsan, Tejasri Nayudu, Jaswanth Sai Bondalapati.
 ## Team Number:
 #### 4
+## Problem Statement:
+#### Food waste is a prevalent problem that results from forgetting grocery expiration dates, which can have an adverse effect on the environment and create needless financial loss. At the same time, it might be difficult for those who like to lead healthy lives to properly track their caloric intake and nutritional balance. Existing solutions, such calorie-tracking applications or food expiration reminders, usually deal with these concerns independently; however, no single system addresses both issues.
+## Proposed Solution: 
+#### A cutting edge web application called Smart Nutrition and Food Management assists users in eating better and wasting less. It tracks daily caloric intake, offers grocery expiration alerts, and recommends recipes with goods that are about to expire. Combining food management with nutrition tracking delivers a practical, user-friendly solution to two everyday problems in a single platform. 
+## Target Users: 
+**Students & Families**:  To organize groceries and reduce waste. 
+
+Health-conscious individuals:  To track calorie intake and nutrition. 
+
+Fitness enthusiasts:  Monitor diet closely to achieve fitness goals. 
+
+Small restaurants/cafes:  To manage stock efficiently and cut losses. 
 
 
