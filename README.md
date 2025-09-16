@@ -1,3 +1,3 @@
 # Smart Nutrition And Food Management
 ## Objective
-## ----------
+#### This project aims to develop a Smart Nutrition and Food Management System that tackles food wastage and promotes a balanced diet. It combines food inventory management, expiry notifications, calorie tracking, and innovative recipe suggestions into one platform. The system helps users, such as students, families, health-conscious individuals, and small businesses, manage groceries efficiently and make healthier food choices. The system allows users, students, families, health-conscious individuals, and small companies to manage groceries efficiently and make healthier food choices. We will use technologies like PHP, HTML, CSS, MySQL, and third-party APIs for nutrition and recipes to build and implement the system within a semester.The solution addresses the everyday challenges of food waste and dietary management in a practical and user-friendly way. 
