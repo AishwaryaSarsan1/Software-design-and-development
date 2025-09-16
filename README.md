@@ -19,5 +19,7 @@ A cutting edge web application called Smart Nutrition and Food Management assist
 **Fitness enthusiasts**:  Monitor diet closely to achieve fitness goals. 
 
 **Small restaurants/cafes**:  To manage stock efficiently and cut losses. 
+## Key Features: 
+- **Food Inventory and Expiry Tracking:** Users will be able to record food items as soon as they are bought using the app's digital inventory system. Better organization is made possible by the ability to classify items into storage kinds like pantry, freezer, and refrigerator. When an item is about to expire, the system will promptly notify users and automatically check the shelf life of the items kept. This feature ensures that users are reminded to consume food before it spoils, significantly reducing household and commercial food wastage. 
 
 
