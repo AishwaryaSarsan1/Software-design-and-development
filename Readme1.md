@@ -12,6 +12,6 @@ Smart Nutrition is a web-based nutrition management system that helps users:
 The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (frontend), and uses PHPMailer for OTP email delivery and Chart.js for dashboards.
 
 #  2. Prerequisites:
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Compenent | Recommended Version | Purpose | 
+--- | --- | --- | ---
 
