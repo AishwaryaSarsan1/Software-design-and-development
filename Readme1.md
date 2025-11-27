@@ -84,7 +84,7 @@ http://localhost/smartnutrition/Home.php
    b. Next click on find recipes.
 
 - **Outputs**
-### Dashboard Stats ###
+##### Dashboard Stats #####
 1. Total pantry items
 2. Calories consumed today
 3. Food wasted (expired items)
