@@ -45,16 +45,6 @@ Follow these steps to set up Smart Nutrition on a local machine:
 3. You can: download Import the sql file which we have in the extracted folder. Make sure all the tables are created once you import
 - **Step 4: Configure Email for OTP**
 1. Update your sendEmail.php code with your email and password.
-'''
-$mail->isSMTP();
-$mail->Host       = 'smtp.gmail.com';          // or smtp.office365.com for Outlook
-$mail->SMTPAuth   = true;
-$mail->Username   = 'your_email@example.com';  // your email
-$mail->Password   = 'YOUR_APP_PASSWORD';       // app password, not main password
-$mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-$mail->Port       = 587;
-$mail->setFrom('your_email@example.com', 'Smart Nutrition'); 
-'''
 - *Note: Use an App Password generated from Gmail/Outlook security settings. Never hard-code your real login password in production.*
 
 - **Step 5: (Optional) Configure API Key for Recipes**
