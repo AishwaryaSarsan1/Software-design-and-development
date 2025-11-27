@@ -13,4 +13,5 @@ The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (fron
 
 #  2. Prerequisites:
 Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 
