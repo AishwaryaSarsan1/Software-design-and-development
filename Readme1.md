@@ -16,5 +16,8 @@ The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (fron
  --- | --- | --- 
  PHP | 8.0+ | Server-side scripting
  MySQL | 5.7+ / 8.0+ | Relational database
- --- | --- | ---
+ XAMPP | xAMP | Local web + DB server
+ Web Browser | Chrome / Edge / Firefox | UI access
+ PHPMailer | Latest | Sending OTP emails
+ Chart.js | Latest | Dashboard & charts
 
