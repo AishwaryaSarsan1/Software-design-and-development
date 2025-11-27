@@ -12,6 +12,7 @@ Smart Nutrition is a web-based nutrition management system that helps users:
 The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (frontend), and uses PHPMailer for OTP email delivery and Chart.js for dashboards.
 
 #  2. Prerequisites:
+## Software Requirements:
  Component | Recommended Version | Purpose
  --- | --- | --- 
  PHP | 8.0+ | Server-side scripting
@@ -20,4 +21,10 @@ The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (fron
  Web Browser | Chrome / Edge / Firefox | UI access
  PHPMailer | Latest | Sending OTP emails
  Chart.js | Latest | Dashboard & charts
+
+ ## Hardware Requirements:
+ 1. CPU: Any modern multi-core processor
+ 2. RAM: At least 4 GB (8+ GB recommended for smooth multitasking)
+ 3. Disk Space: ~1 GB for XAMPP, database, and project files
+ 4. 
 
