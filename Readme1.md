@@ -69,17 +69,17 @@ http://localhost/smartnutrition/Home.php
    - Profile (profile.php) – Update height, weight, and see BMI/calorie goal
 # 5. Input/Output Explanation:
 #### Inputs ####
-1. User Authentication
+1. User Authentication:
    a. Enter Email as username.
    b. Passowrd
-2. Pantry Items
+2. Pantry Items:
    Enter name of pantry item, quantity, purchased date expiry date, category, storage type(pantry, refrigerator, freezer), unit.
-3. Meal Logs
+3. Meal Logs:
    a. Select meal type(breakfast, lunch or dinner)
    b. selected the pantry item used for the meal
-4. In Profile
+4. In Profile:
    a. Enter your height and weight
-5. Recipes tab
+5. Recipes tab:
    a. Selected the pantry items from your pantry, diet, max time, intolerances, number of recipes you required to see.
    b. Next click on find recipes.
 
