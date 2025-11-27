@@ -30,5 +30,6 @@ The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (fron
 
 # 3. Installation Instructions:
 Follow these steps to set up Smart Nutrition on a local machine:
-- *Step 1: Clone / Download the Project*
+- **Step 1: Clone / Download the Project**
+ From git click the link https://github.com/your-username/smart-nutrition.git and download the zip file and extract to C:\xampp\htdocs\smartnutrition\   (make sure the project folder is this)
 
