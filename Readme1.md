@@ -61,6 +61,47 @@ $mail->setFrom('your_email@example.com', 'Smart Nutrition');
 1. Configure API key for recipes in recipes.php
    $apiKey = 'YOUR_API_KEY_HERE';
 
+# 4. Execution Instructions:
+- **Step 1: Start Server**
+1. Open XAMPP Control Panel
+2. Make sure Apache and MySQL are running
+- **Step 2: Launch Application**
+Open the browser and navigate to:
+http://localhost/smartnutrition/Home.php
+- **Step 3: Typical Usage Flow**
+1. Sign Up via signup.php
+2. Sign In via signin.php
+3. Once signed in will be routed to Home page which is Index.php
+4. Navigate from header to
+   - Pantry (food_items.php) – Manage pantry items like adding or deleting, purchase date and expiry date
+   - Meal Logs (meallogs.php) – Log meals and view history
+   - Recipes (recipes.php) – Get recipe suggestions
+   - Profile (profile.php) – Update height, weight, and see BMI/calorie goal
+# 5. Input/Output Explanation:
+- **Inputs**
+1. User Authentication
+   a. Enter Email as username.
+   b. Passowrd
+2. Pantry Items
+   Enter name of pantry item, quantity, purchased date expiry date, category, storage type(pantry, refrigerator, freezer), unit.
+3. Meal Logs
+   a. Select meal type(breakfast, lunch or dinner)
+   b. selected the pantry item used for the meal
+4. In Profile
+   a. Enter your height and weight
+5. Recipes tab
+   a. Selected the pantry items from your pantry, diet, max time, intolerances, number of recipes you required to see.
+   b. Next click on find recipes.
+
+- **Outputs**
+### Dashboard Stats ###
+1. Total pantry items
+2. Calories consumed today
+3. Food wasted (expired items)
+4. Fresh vs expired item counts
+   
+
+
    
    
 
