@@ -32,4 +32,15 @@ The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (fron
 Follow these steps to set up Smart Nutrition on a local machine:
 - **Step 1: Clone / Download the Project**
  From git click the link https://github.com/your-username/smart-nutrition.git and download the zip file and extract to C:\xampp\htdocs\smartnutrition\   (make sure the project folder is this)
+- **Step 2: Start XAMPP**
+1. Open XAMPP Control Panel
+2. Start:
+   a. Apache
+   b. Mysql
+- **Step 3: Create and Configure Database**
+1. Open a browser and go to:
+   http://localhost/phpmyadmin
+2. Click New → Create Database:
+   CREATE DATABASE smart_nutrition;
+3. You can: download Import the sql file which we have in the extracted folder. Make sure all the tables are created once you import
 
