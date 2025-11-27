@@ -26,5 +26,9 @@ The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (fron
  1. CPU: Any modern multi-core processor
  2. RAM: At least 4 GB (8+ GB recommended for smooth multitasking)
  3. Disk Space: ~1 GB for XAMPP, database, and project files
- 4. 
+ 4. OS: Windows / Linux / macOS with support for PHP & MySQL
+
+# 3. Installation Instructions:
+Follow these steps to set up Smart Nutrition on a local machine:
+- *Step 1: Clone / Download the Project*
 
