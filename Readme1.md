@@ -68,7 +68,7 @@ http://localhost/smartnutrition/Home.php
    - Recipes (recipes.php) – Get recipe suggestions
    - Profile (profile.php) – Update height, weight, and see BMI/calorie goal
 # 5. Input/Output Explanation:
-- **Inputs**
+#### Inputs ####
 1. User Authentication
    a. Enter Email as username.
    b. Passowrd
@@ -83,12 +83,16 @@ http://localhost/smartnutrition/Home.php
    a. Selected the pantry items from your pantry, diet, max time, intolerances, number of recipes you required to see.
    b. Next click on find recipes.
 
-- **Outputs**
+#### Outputs ####
 ##### Dashboard Stats #####
 1. Total pantry items
 2. Calories consumed today
 3. Food wasted (expired items)
 4. Fresh vs expired item counts
+
+##### Charts (via Chart.js) #####
+1. Donut chart: Calories Today vs Goal
+2. Donut chart: Fresh vs Expired
    
 
 
