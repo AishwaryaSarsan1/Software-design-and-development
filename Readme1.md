@@ -15,7 +15,6 @@ The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (fron
  Component | Recommended Version | Purpose
  --- | --- | --- 
  PHP | 8.0+ | Server-side scripting
- --- | --- | ---
  MySQL | 5.7+ / 8.0+ | Relational database
  --- | --- | ---
 
