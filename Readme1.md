@@ -95,11 +95,11 @@ http://localhost/smartnutrition/Home.php
 2. Donut chart: Fresh vs Expired
 
 # 5. Input/Output Explanation:
-- **1. Sign up**
+**1. Sign up**
 ##### Input #####
-1. User full name
-2. Email address
-3. Password (minimum 6 characters)
+1. Enter user full name
+2. Enter Email address
+3. Enter Password (minimum 6 characters)
 4. Optional fields: Age, Height (cm), Weight (kg)
 
 ##### Output #####
@@ -107,7 +107,7 @@ http://localhost/smartnutrition/Home.php
 2. User saved into database with the passoword hashed
 3. Profile displayed on dashboard after login
 
-- **2 Sign In**
+**2 Sign In**
 ##### Input #####
 1. Email OR Username
 2. Password
@@ -141,7 +141,7 @@ Failed login → “Invalid credentials” error
 2. OTP cleared from database
 Message: “Your password has been reset. Please sign in.”
 
-- **4. Pantry Management**
+**4. Pantry Management**
 ##### Inputs #####
 
 1. Food item name (e.g., Oats, Milk)
@@ -161,7 +161,7 @@ Message: “Your password has been reset. Please sign in.”
  -->Expiring soon notifications
  -->Low stock notifications
 
-5. Meal Logs
+**5. Meal Logs**
 ##### Inputs #####
 1. Meal type (Breakfast / Lunch / Dinner / Snack)
 2. Pantry item (optional)
@@ -184,7 +184,7 @@ Affects:
 Calories Today
 Doughnut Chart (Consumed vs Goal)
 
-- **6. Recipes Module**
+**6. Recipes Module**
 ##### Inputs #####
 1. Select Ingredients
 2. select Diet (optional)
@@ -201,7 +201,7 @@ Optional nutritional information
 2. User can log a meal if he likes the recipes and the calories will be added to the dashboard
 3. Meal will be saved to recent meal logs
 
-- **7. Profile**
+**7. Profile**
 ##### Inputs #####
 
 1. Updated height (cm)
@@ -218,7 +218,73 @@ Optional nutritional information
 6. Normal → Balanced target
 7. Overweight → Lower target
 8. Obesity → Weight-loss oriented target
-   
+
+# 6. Features #
+##### User Management #####
+- Signup, login, logout
+- Secure password hashing
+   OTP-based password reset
+- Profile editing (height, weight)
+- Automatic BMI calculation
+- Auto-generated calorie goal based on BMI
+
+##### Pantry Management #####
+- Add/edit/delete pantry items
+- Expiring soon alerts
+- Expired item detection
+- Low-stock notification
+
+#### Meal Logging System #####
+- Select pantry item
+- Quantity-based calorie calculation
+- Macronutrient tracking (protein, carbs, fat)
+- Daily history display
+
+##### Dashboard #####
+- Calories consumed vs daily goal
+- Fresh vs expired item chart
+- Recently logged meals
+- Notification dropdown for expiry alerts
+
+##### Recipe Integration (Optional) #####
+- API-ready design for future expansion
+
+# 7. Troubleshooting #
+**1. OTP Email Not Delivered**
+- Cause: Incorrect SMTP configuration
+- Fix:Use Gmail App Password
+- Enable 2FA
+- Use SMTP port 587
+
+**2. Dashboard Calories Not Updating**
+- Cause: consumed_at date mismatch
+- Fix:Ensure timezone in PHP and MySQL match
+- Verify meal_logs has calories column populated
+
+**3. “Blank Page” Error**
+- Enable error display:
+
+ini_set('display_errors',1);
+
+error_reporting(E_ALL);
+
+**4. Database Connection Error**
+
+- Verify:
+
+DB_USER = "root";
+
+DB_PASS = "";
+
+- Ensure MySQL running.
+
+**5. CSS Not Loading**
+
+Check:
+
+assets/css/
+
+folder path in HTML.
 
 
    
