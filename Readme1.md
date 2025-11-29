@@ -93,6 +93,75 @@ http://localhost/smartnutrition/Home.php
 ##### Charts (via Chart.js) #####
 1. Donut chart: Calories Today vs Goal
 2. Donut chart: Fresh vs Expired
+
+# 5. Input/Output Explanation:
+- **1. Sign up**
+##### Input #####
+User full name
+Email address
+Password (minimum 6 characters)
+Optional fields: Age, Height (cm), Weight (kg)
+
+##### Output #####
+Account creation confirmation
+User saved into database with the passoword hashed
+Profile displayed on dashboard after login
+
+- **2 Sign In**
+##### Input #####
+Email OR Username
+Password
+
+##### Outout #####
+Successful login → redirect to Index.php dashboard
+Failed login → “Invalid credentials” error
+
+- **3. Authentication – Forgot Password (OTP Flow)**
+- *Step 1: Request OTP*
+##### Inputs: #####
+Clicks Forget Passoword
+Registered email
+
+##### Outputs: #####
+
+Email with 6-digit OTP sent to user
+Database stores:
+OTP
+OTP expiry time (10 mins)
+
+- *Step 2: Verify OTP & Set New Password*
+##### Inputs: #####
+
+Email
+6-digit OTP
+New password
+Confirm new password
+
+##### Outputs: #####
+
+Password updated
+OTP cleared from database
+Message: “Your password has been reset. Please sign in.”
+
+- **4. Pantry Management**
+##### Inputs #####
+
+Food item name (e.g., Oats, Milk)
+Category (e.g., Grain, Dairy)
+Quantity value
+Quantity unit (e.g., kg, pcs, cups)
+Storage type (Pantry / Refrigerator / Freezer)
+Expiry date
+Purchase date (optional)
+
+##### Outputs #####
+
+Item saved in food_items table
+Visible in Pantry list for the user
+Displayed in dashboards for:
+ --> Fresh items count
+ -->Expiring soon notifications
+ -->Low stock notifications
    
 
 
