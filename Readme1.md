@@ -160,6 +160,64 @@ Message: “Your password has been reset. Please sign in.”
  --> Fresh items count
  -->Expiring soon notifications
  -->Low stock notifications
+
+5. Meal Logs
+##### Inputs #####
+1. Meal type (Breakfast / Lunch / Dinner / Snack)
+2. Pantry item (optional)
+3. Quantity consumed
+4. Unit (serving, cup, grams, etc.)
+
+##### Internal  #####
+1. Fetches calorie-per-unit from pantry item
+2. Calculates:
+3. Total calories
+4. Total protein
+5. Total carbs
+6. Total fat
+
+##### Outputs #####
+
+1. New meal record saved in meal_logs table
+2. Displayed under Recent Meal Logs
+Affects:
+Calories Today
+Doughnut Chart (Consumed vs Goal)
+
+- **6. Recipes Module**
+##### Inputs #####
+1. Select Ingredients
+2. select Diet (optional)
+3. Max ready time (eg: 15, 30)
+4. Intolerances (Optional)
+5. Number of recipes (Enter a number to view the recipes suggestions to view)
+6. Click find recipes
+
+##### Instructions #####
+Optional nutritional information
+
+##### Outputs #####
+1. Display reccipes to the user
+2. User can log a meal if he likes the recipes and the calories will be added to the dashboard
+3. Meal will be saved to recent meal logs
+
+- **7. Profile**
+##### Inputs #####
+
+1. Updated height (cm)
+2. Updated weight (kg)
+3. Selects activity level
+4. Goal mode ( selects check box = true else false)
+5. clicks save
+
+##### Outputs #####
+1. automatically calculated the BMI
+2. BMI category label (Underweight / Normal / Overweight / Obesity)
+3. Auto-generated daily calorie goal (if goal mode is enabled):
+4. Underweight → Higher calorie target
+6. Normal → Balanced target
+7. Overweight → Lower target
+8. Obesity → Weight-loss oriented target
    
 
 
