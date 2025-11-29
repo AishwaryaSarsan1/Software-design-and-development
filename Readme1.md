@@ -147,6 +147,7 @@ Message: “Your password has been reset. Please sign in.”
 ##### Inputs #####
 
 Food item name (e.g., Oats, Milk)
+
 Category (e.g., Grain, Dairy)
 Quantity value
 Quantity unit (e.g., kg, pcs, cups)
