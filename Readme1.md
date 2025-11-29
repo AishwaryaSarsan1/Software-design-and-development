@@ -97,20 +97,21 @@ http://localhost/smartnutrition/Home.php
 # 5. Input/Output Explanation:
 - **1. Sign up**
 ##### Input #####
-User full name
-Email address
-Password (minimum 6 characters)
-Optional fields: Age, Height (cm), Weight (kg)
+1. User full name
+2. Email address
+3. Password (minimum 6 characters)
+4. Optional fields: Age, Height (cm), Weight (kg)
 
 ##### Output #####
-Account creation confirmation
-User saved into database with the passoword hashed
-Profile displayed on dashboard after login
+1. Account creation confirmation
+2. User saved into database with the passoword hashed
+3. Profile displayed on dashboard after login
 
 - **2 Sign In**
 ##### Input #####
-Email OR Username
-Password
+1. Email OR Username
+2. Password
+3. Clicks Sign in button
 
 ##### Outout #####
 Successful login → redirect to Index.php dashboard
@@ -119,47 +120,43 @@ Failed login → “Invalid credentials” error
 - **3. Authentication – Forgot Password (OTP Flow)**
 - *Step 1: Request OTP*
 ##### Inputs: #####
-Clicks Forget Passoword
-Registered email
+1. Clicks Forget Passoword
+2. Registered email
 
 ##### Outputs: #####
-
-Email with 6-digit OTP sent to user
-Database stores:
-OTP
-OTP expiry time (10 mins)
+1. Email with 6-digit OTP sent to user
+2. Database stores:
+3. OTP
+4. OTP expiry time (10 mins)
 
 - *Step 2: Verify OTP & Set New Password*
 ##### Inputs: #####
-
-Email
-6-digit OTP
-New password
-Confirm new password
+1. Email
+2. 6-digit OTP
+3. New password
+4. Confirm new password
 
 ##### Outputs: #####
-
-Password updated
-OTP cleared from database
+1. Password updated
+2. OTP cleared from database
 Message: “Your password has been reset. Please sign in.”
 
 - **4. Pantry Management**
 ##### Inputs #####
 
-Food item name (e.g., Oats, Milk)
-
-Category (e.g., Grain, Dairy)
-Quantity value
-Quantity unit (e.g., kg, pcs, cups)
-Storage type (Pantry / Refrigerator / Freezer)
-Expiry date
-Purchase date (optional)
+1. Food item name (e.g., Oats, Milk)
+2. Category (e.g., Grain, Dairy)
+3. Quantity value
+4. Quantity unit (e.g., kg, pcs, cups)
+5. Storage type (Pantry / Refrigerator / Freezer)
+6. Expiry date
+7. Purchase date (optional)
 
 ##### Outputs #####
 
-Item saved in food_items table
-Visible in Pantry list for the user
-Displayed in dashboards for:
+1. Item saved in food_items table
+2. Visible in Pantry list for the user
+3. Displayed in dashboards for:
  --> Fresh items count
  -->Expiring soon notifications
  -->Low stock notifications
