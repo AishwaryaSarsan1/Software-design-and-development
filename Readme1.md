@@ -296,11 +296,10 @@ Check:
 
 # 9. AI Assistance Disclaimer #
 
-*This project utilized ChatGPT (OpenAI) for:*
+*This project utilized ChatGPT for:*
 - Debugging PHP errors
 - Improving UI/UX styling
 - Optimizing SQL queries
-- Generating documentation (including this README)
 - Clarifying architectural decisions
 
    
