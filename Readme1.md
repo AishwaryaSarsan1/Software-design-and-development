@@ -157,9 +157,9 @@ Message: “Your password has been reset. Please sign in.”
 1. Item saved in food_items table
 2. Visible in Pantry list for the user
 3. Displayed in dashboards for:
- --> Fresh items count
- -->Expiring soon notifications
- -->Low stock notifications
+ - Fresh items count
+ - Expiring soon notifications
+ - Low stock notifications
 
 **5. Meal Logs**
 ##### Inputs #####
@@ -223,7 +223,7 @@ Optional nutritional information
 ##### User Management #####
 - Signup, login, logout
 - Secure password hashing
-   OTP-based password reset
+- OTP-based password reset
 - Profile editing (height, weight)
 - Automatic BMI calculation
 - Auto-generated calorie goal based on BMI
@@ -282,10 +282,26 @@ DB_PASS = "";
 
 Check:
 
-assets/css/
+- assets/css/
+- folder path in HTML.
 
-folder path in HTML.
+# 8. Acknowledgements #
+**Tools Used**
+- PHP
+- MySQL Database
+- XAMPP Server
+- Chart.js
+- PHPMailer
+- HTML/CSS/JavaScript
 
+# 9. AI Assistance Disclaimer #
+
+*This project utilized ChatGPT (OpenAI) for:*
+- Debugging PHP errors
+- Improving UI/UX styling
+- Optimizing SQL queries
+- Generating documentation (including this README)
+- Clarifying architectural decisions
 
    
    
