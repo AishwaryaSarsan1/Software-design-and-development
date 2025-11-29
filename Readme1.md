@@ -117,7 +117,7 @@ http://localhost/smartnutrition/Home.php
 Successful login → redirect to Index.php dashboard
 Failed login → “Invalid credentials” error
 
-- **3. Authentication – Forgot Password (OTP Flow)**
+**3. Authentication – Forgot Password (OTP Flow)**
 - *Step 1: Request OTP*
 ##### Inputs: #####
 1. Clicks Forget Passoword
