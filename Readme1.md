@@ -21,6 +21,8 @@ The application is built with PHP (backend), MySQL (database), HTML/CSS/JS (fron
  Web Browser | Chrome / Edge / Firefox | UI access
  PHPMailer | Latest | Sending OTP emails
  Chart.js | Latest | Dashboard & charts
+ Spoonacular API | Latest | Recipe Suggestions and calorie calculation
+ API ninja | Latest | Pantry items calorie calculation
 
  ## Hardware Requirements:
  1. CPU: Any modern multi-core processor
