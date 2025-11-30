@@ -165,35 +165,31 @@ Message: “Your password has been reset. Please sign in.”
 
 **5. Meal Logs**
 ##### Inputs #####
-1. Meal type (Breakfast / Lunch / Dinner / Snack)
-2. Pantry item (optional)
-3. Quantity consumed
+1. Select Meal type (Breakfast / Lunch / Dinner / Snack)
+2. Select Pantry item used for the meal (optional)
+3. Enter number of Quantity consumed
 4. Unit (serving, cup, grams, etc.)
 
 ##### Internal  #####
 1. Fetches calorie-per-unit from pantry item
 2. Calculates:
-3. Total calories
-4. Total protein
-5. Total carbs
-6. Total fat
+   - Total calories
+   - Total protein
+   - Total carbs
+   - Total fat
 
 ##### Outputs #####
 
 1. New meal record saved in meal_logs table
 2. Displayed under Recent Meal Logs
 Affects:
-Calories Today
-Doughnut Chart (Consumed vs Goal)
+In Calories Today in home page
+In Doughnut Chart (Consumed vs Goal)
 
-**6. Recipes Module**
+**6. Recipes Tab**
 ##### Inputs #####
-1. Select Ingredients
-2. select Diet (optional)
-3. Max ready time (eg: 15, 30)
-4. Intolerances (Optional)
-5. Number of recipes (Enter a number to view the recipes suggestions to view)
-6. Click find recipes
+1. Selected the pantry items from your pantry, diet, max time, intolerances, number of recipes you required to see.
+2. Click find recipes
 
 ##### Instructions #####
 Optional nutritional information
@@ -206,11 +202,10 @@ Optional nutritional information
 **7. Profile**
 ##### Inputs #####
 
-1. Updated height (cm)
-2. Updated weight (kg)
-3. Selects activity level
-4. Goal mode ( selects check box = true else false)
-5. clicks save
+1. Updated height (cm), weight (kg)
+2. Selects activity level
+3. Goal mode ( selects check box = true else false)
+4. clicks save
 
 ##### Outputs #####
 1. automatically calculated the BMI
