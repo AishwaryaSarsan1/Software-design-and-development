@@ -268,6 +268,8 @@ Check:
 - Optimizing SQL queries
 - Clarifying architectural decisions
 
+https://chatgpt.com/share/692cc9ce-1204-8000-abef-47dd36a75830
+
    
    
 
