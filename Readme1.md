@@ -69,32 +69,6 @@ http://localhost/smartnutrition/Home.php
    - Meal Logs (meallogs.php) – Log meals and view history
    - Recipes (recipes.php) – Get recipe suggestions
    - Profile (profile.php) – Update height, weight, and see BMI/calorie goal
-# 5. Input/Output Explanation:
-#### Inputs ####
-1. User Authentication:
-   a. Enter Email as username.
-   b. Passowrd
-2. Pantry Items:
-   Enter name of pantry item, quantity, purchased date expiry date, category, storage type(pantry, refrigerator, freezer), unit.
-3. Meal Logs:
-   a. Select meal type(breakfast, lunch or dinner)
-   b. selected the pantry item used for the meal
-4. In Profile:
-   a. Enter your height and weight
-5. Recipes tab:
-   a. Selected the pantry items from your pantry, diet, max time, intolerances, number of recipes you required to see.
-   b. Next click on find recipes.
-
-#### Outputs ####
-##### Dashboard Stats #####
-1. Total pantry items
-2. Calories consumed today
-3. Food wasted (expired items)
-4. Fresh vs expired item counts
-
-##### Charts (via Chart.js) #####
-1. Donut chart: Calories Today vs Goal
-2. Donut chart: Fresh vs Expired
 
 # 5. Input/Output Explanation:
 **1. Sign up**
@@ -146,17 +120,12 @@ Message: “Your password has been reset. Please sign in.”
 **4. Pantry Management**
 ##### Inputs #####
 
-1. Food item name (e.g., Oats, Milk)
-2. Category (e.g., Grain, Dairy)
-3. Quantity value
-4. Quantity unit (e.g., kg, pcs, cups)
-5. Storage type (Pantry / Refrigerator / Freezer)
-6. Expiry date
-7. Purchase date (optional)
+1. Enter name of pantry item, quantity, purchased date expiry date, category, storage type(pantry, refrigerator, freezer), unit.
+2. Clicks save
 
 ##### Outputs #####
 
-1. Item saved in food_items table
+1. Item saved in food_items table in the database
 2. Visible in Pantry list for the user
 3. Displayed in dashboards for:
  - Fresh items count
