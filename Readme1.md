@@ -196,6 +196,7 @@ Optional nutritional information
 
 ##### Pantry Management #####
 - Add/edit/delete pantry items
+- Automaticly reflect the Calorie per unit for the pantry item added with the API ninja integration.
 - Expiring soon alerts
 - Expired item detection
 - Low-stock notification
@@ -206,20 +207,21 @@ Optional nutritional information
 - Macronutrient tracking (protein, carbs, fat)
 - Daily history display
 
+##### Recipes Engine #####
+- Pull different recipes for the available pantry items with integration with the spoonacular API
+
 ##### Dashboard #####
 - Calories consumed vs daily goal
 - Fresh vs expired item chart
 - Recently logged meals
 - Notification dropdown for expiry alerts
 
-##### Recipe Integration (Optional) #####
-- API-ready design for future expansion
 
 # 7. Troubleshooting #
 **1. OTP Email Not Delivered**
-- Cause: Incorrect SMTP configuration
-- Fix:Use Gmail App Password
-- Enable 2FA
+- Possible Cause would be: Incorrect SMTP configuration
+- To Fix it: check if you used your gmail app password instead of ypur real password
+- check 2 factor authentication is enabled in the google security Settings 
 - Use SMTP port 587
 
 **2. Dashboard Calories Not Updating**
