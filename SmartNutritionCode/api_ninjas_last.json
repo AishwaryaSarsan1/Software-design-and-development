@@ -1,0 +1,96 @@
+2025-10-29T14:58:02+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 1200.0, "fat_total_g": 116.1, "fat_saturated_g": 37.5, "protein_g": "Only available for premium subscribers.", "sodium_mg": 1678, "potassium_mg": 2393, "cholesterol_mg": 4458, "carbohydrates_total_g": 8.6, "fiber_g": 0.0, "sugar_g": 4.6}]
+
+2025-10-29T15:30:21+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 50.0, "fat_total_g": 4.8, "fat_saturated_g": 1.6, "protein_g": "Only available for premium subscribers.", "sodium_mg": 69, "potassium_mg": 99, "cholesterol_mg": 185, "carbohydrates_total_g": 0.4, "fiber_g": 0.0, "sugar_g": 0.2}]
+
+2025-10-29T15:36:50+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 50.0, "fat_total_g": 4.8, "fat_saturated_g": 1.6, "protein_g": "Only available for premium subscribers.", "sodium_mg": 69, "potassium_mg": 99, "cholesterol_mg": 185, "carbohydrates_total_g": 0.4, "fiber_g": 0.0, "sugar_g": 0.2}]
+
+2025-10-29T15:37:52+01:00 HTTP:200
+[{"name": "yogurt", "calories": "Only available for premium subscribers.", "serving_size_g": 1.0, "fat_total_g": 0.0, "fat_saturated_g": 0.0, "protein_g": "Only available for premium subscribers.", "sodium_mg": 0, "potassium_mg": 1, "cholesterol_mg": 0, "carbohydrates_total_g": 0.1, "fiber_g": 0.0, "sugar_g": 0.1}]
+
+2025-10-29T15:39:44+01:00 HTTP:200
+[{"name": "sweet potato", "calories": "Only available for premium subscribers.", "serving_size_g": 151.0, "fat_total_g": 0.2, "fat_saturated_g": 0.1, "protein_g": "Only available for premium subscribers.", "sodium_mg": 40, "potassium_mg": 48, "cholesterol_mg": 0, "carbohydrates_total_g": 26.4, "fiber_g": 3.8, "sugar_g": 8.7}]
+
+2025-11-03T01:49:53+01:00 HTTP:200
+[]
+
+2025-11-10T17:44:39+01:00 HTTP:200
+[{"name": "bread", "calories": "Only available for premium subscribers.", "serving_size_g": 29.0, "fat_total_g": 1.0, "fat_saturated_g": 0.2, "protein_g": "Only available for premium subscribers.", "sodium_mg": 143, "potassium_mg": 28, "cholesterol_mg": 0, "carbohydrates_total_g": 14.6, "fiber_g": 0.8, "sugar_g": 1.7}]
+
+2025-11-10T17:45:06+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 600.0, "fat_total_g": 58.0, "fat_saturated_g": 18.7, "protein_g": "Only available for premium subscribers.", "sodium_mg": 839, "potassium_mg": 1196, "cholesterol_mg": 2229, "carbohydrates_total_g": 4.3, "fiber_g": 0.0, "sugar_g": 2.3}]
+
+2025-11-17T20:39:48+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 50.0, "fat_total_g": 4.8, "fat_saturated_g": 1.6, "protein_g": "Only available for premium subscribers.", "sodium_mg": 69, "potassium_mg": 99, "cholesterol_mg": 185, "carbohydrates_total_g": 0.4, "fiber_g": 0.0, "sugar_g": 0.2}]
+
+2025-11-26T22:30:22+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 550.0, "fat_total_g": 53.2, "fat_saturated_g": 17.2, "protein_g": "Only available for premium subscribers.", "sodium_mg": 769, "potassium_mg": 1096, "cholesterol_mg": 2043, "carbohydrates_total_g": 3.9, "fiber_g": 0.0, "sugar_g": 2.1}]
+
+2025-11-27T00:37:45+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 50.0, "fat_total_g": 4.8, "fat_saturated_g": 1.6, "protein_g": "Only available for premium subscribers.", "sodium_mg": 69, "potassium_mg": 99, "cholesterol_mg": 185, "carbohydrates_total_g": 0.4, "fiber_g": 0.0, "sugar_g": 0.2}]
+
+2025-11-27T00:41:48+01:00 HTTP:200
+[{"name": "bread", "calories": "Only available for premium subscribers.", "serving_size_g": 29.0, "fat_total_g": 1.0, "fat_saturated_g": 0.2, "protein_g": "Only available for premium subscribers.", "sodium_mg": 143, "potassium_mg": 28, "cholesterol_mg": 0, "carbohydrates_total_g": 14.6, "fiber_g": 0.8, "sugar_g": 1.7}]
+
+2025-11-27T00:59:25+01:00 HTTP:200
+[{"name": "apple", "calories": "Only available for premium subscribers.", "serving_size_g": 182.0, "fat_total_g": 0.3, "fat_saturated_g": 0.1, "protein_g": "Only available for premium subscribers.", "sodium_mg": 1, "potassium_mg": 20, "cholesterol_mg": 0, "carbohydrates_total_g": 25.6, "fiber_g": 4.3, "sugar_g": 18.8}]
+
+2025-11-27T01:16:12+01:00 HTTP:200
+[{"name": "pasta", "calories": "Only available for premium subscribers.", "serving_size_g": 124.0, "fat_total_g": 1.1, "fat_saturated_g": 0.2, "protein_g": "Only available for premium subscribers.", "sodium_mg": 1, "potassium_mg": 72, "cholesterol_mg": 0, "carbohydrates_total_g": 38.9, "fiber_g": 2.2, "sugar_g": 0.7}]
+
+2025-11-27T01:47:40+01:00 HTTP:200
+[{"name": "mango", "calories": "Only available for premium subscribers.", "serving_size_g": 165.0, "fat_total_g": 0.6, "fat_saturated_g": 0.1, "protein_g": "Only available for premium subscribers.", "sodium_mg": 1, "potassium_mg": 23, "cholesterol_mg": 0, "carbohydrates_total_g": 24.4, "fiber_g": 2.7, "sugar_g": 22.4}]
+
+2025-11-27T02:13:53+01:00 HTTP:200
+[{"name": "carrots", "calories": "Only available for premium subscribers.", "serving_size_g": 907.184, "fat_total_g": 1.6, "fat_saturated_g": 0.2, "protein_g": "Only available for premium subscribers.", "sodium_mg": 516, "potassium_mg": 273, "cholesterol_mg": 0, "carbohydrates_total_g": 73.5, "fiber_g": 27.1, "sugar_g": 31.2}]
+
+2025-11-29T17:40:21+01:00 HTTP:200
+[{"name": "milk", "calories": "Only available for premium subscribers.", "serving_size_g": 1.0, "fat_total_g": 0.0, "fat_saturated_g": 0.0, "protein_g": "Only available for premium subscribers.", "sodium_mg": 0, "potassium_mg": 1, "cholesterol_mg": 0, "carbohydrates_total_g": 0.0, "fiber_g": 0.0, "sugar_g": 0.0}]
+
+2025-11-29T17:51:05+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 600.0, "fat_total_g": 58.0, "fat_saturated_g": 18.7, "protein_g": "Only available for premium subscribers.", "sodium_mg": 839, "potassium_mg": 1196, "cholesterol_mg": 2229, "carbohydrates_total_g": 4.3, "fiber_g": 0.0, "sugar_g": 2.3}]
+
+2025-11-30T19:56:06+01:00 HTTP:200
+[{"name": "eggs", "calories": "Only available for premium subscribers.", "serving_size_g": 600.0, "fat_total_g": 56.2, "fat_saturated_g": 18.8, "protein_g": "Only available for premium subscribers.", "sodium_mg": 862, "potassium_mg": 1200, "cholesterol_mg": 2241, "carbohydrates_total_g": 4.3, "fiber_g": 0.0, "sugar_g": 2.3}]
+
+2025-12-01T17:14:12+01:00 HTTP:200
+[{"name": "spinach", "calories": "Only available for premium subscribers.", "serving_size_g": 180.0, "fat_total_g": 0.5, "fat_saturated_g": 0.1, "protein_g": "Only available for premium subscribers.", "sodium_mg": 125, "potassium_mg": 99, "cholesterol_mg": 0, "carbohydrates_total_g": 6.8, "fiber_g": 4.4, "sugar_g": 0.8}]
+
+2025-12-01T17:20:59+01:00 HTTP:200
+[{"name": "spinach", "calories": "Only available for premium subscribers.", "serving_size_g": 180.0, "fat_total_g": 0.5, "fat_saturated_g": 0.1, "protein_g": "Only available for premium subscribers.", "sodium_mg": 125, "potassium_mg": 99, "cholesterol_mg": 0, "carbohydrates_total_g": 6.8, "fiber_g": 4.4, "sugar_g": 0.8}]
+
+2025-12-01T17:22:00+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 50.0, "fat_total_g": 4.8, "fat_saturated_g": 1.6, "protein_g": "Only available for premium subscribers.", "sodium_mg": 69, "potassium_mg": 99, "cholesterol_mg": 185, "carbohydrates_total_g": 0.4, "fiber_g": 0.0, "sugar_g": 0.2}]
+
+2025-12-01T17:27:10+01:00 HTTP:200
+[{"name": "arugula", "calories": "Only available for premium subscribers.", "serving_size_g": 10.0, "fat_total_g": 0.1, "fat_saturated_g": 0.0, "protein_g": "Only available for premium subscribers.", "sodium_mg": 2, "potassium_mg": 5, "cholesterol_mg": 0, "carbohydrates_total_g": 0.4, "fiber_g": 0.2, "sugar_g": 0.2}]
+
+2025-12-01T17:34:16+01:00 HTTP:200
+[{"name": "apple", "calories": "Only available for premium subscribers.", "serving_size_g": 1820.0, "fat_total_g": 3.1, "fat_saturated_g": 0.5, "protein_g": "Only available for premium subscribers.", "sodium_mg": 18, "potassium_mg": 203, "cholesterol_mg": 0, "carbohydrates_total_g": 255.9, "fiber_g": 43.1, "sugar_g": 187.9}]
+
+2025-12-01T18:19:04+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 50.0, "fat_total_g": 4.8, "fat_saturated_g": 1.6, "protein_g": "Only available for premium subscribers.", "sodium_mg": 69, "potassium_mg": 99, "cholesterol_mg": 185, "carbohydrates_total_g": 0.4, "fiber_g": 0.0, "sugar_g": 0.2}]
+
+2025-12-03T14:54:01+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 600.0, "fat_total_g": 58.0, "fat_saturated_g": 18.7, "protein_g": "Only available for premium subscribers.", "sodium_mg": 839, "potassium_mg": 1196, "cholesterol_mg": 2229, "carbohydrates_total_g": 4.3, "fiber_g": 0.0, "sugar_g": 2.3}]
+
+2025-12-03T14:54:53+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 100.0, "fat_total_g": 9.7, "fat_saturated_g": 3.1, "protein_g": "Only available for premium subscribers.", "sodium_mg": 139, "potassium_mg": 199, "cholesterol_mg": 371, "carbohydrates_total_g": 0.7, "fiber_g": 0.0, "sugar_g": 0.4}]
+
+2025-12-03T15:11:08+01:00 HTTP:200
+[{"name": "spinach", "calories": "Only available for premium subscribers.", "serving_size_g": 180.0, "fat_total_g": 0.5, "fat_saturated_g": 0.1, "protein_g": "Only available for premium subscribers.", "sodium_mg": 125, "potassium_mg": 99, "cholesterol_mg": 0, "carbohydrates_total_g": 6.8, "fiber_g": 4.4, "sugar_g": 0.8}]
+
+2025-12-03T15:11:37+01:00 HTTP:200
+[{"name": "spinach", "calories": "Only available for premium subscribers.", "serving_size_g": 180.0, "fat_total_g": 0.5, "fat_saturated_g": 0.1, "protein_g": "Only available for premium subscribers.", "sodium_mg": 125, "potassium_mg": 99, "cholesterol_mg": 0, "carbohydrates_total_g": 6.8, "fiber_g": 4.4, "sugar_g": 0.8}]
+
+2025-12-03T16:56:03+01:00 HTTP:200
+[{"name": "arugula", "calories": "Only available for premium subscribers.", "serving_size_g": 10.0, "fat_total_g": 0.1, "fat_saturated_g": 0.0, "protein_g": "Only available for premium subscribers.", "sodium_mg": 2, "potassium_mg": 5, "cholesterol_mg": 0, "carbohydrates_total_g": 0.4, "fiber_g": 0.2, "sugar_g": 0.2}]
+
+2025-12-03T17:19:28+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 50.0, "fat_total_g": 4.8, "fat_saturated_g": 1.6, "protein_g": "Only available for premium subscribers.", "sodium_mg": 69, "potassium_mg": 99, "cholesterol_mg": 185, "carbohydrates_total_g": 0.4, "fiber_g": 0.0, "sugar_g": 0.2}]
+
+2025-12-03T18:18:33+01:00 HTTP:200
+[{"name": "egg", "calories": "Only available for premium subscribers.", "serving_size_g": 50.0, "fat_total_g": 4.8, "fat_saturated_g": 1.6, "protein_g": "Only available for premium subscribers.", "sodium_mg": 69, "potassium_mg": 99, "cholesterol_mg": 185, "carbohydrates_total_g": 0.4, "fiber_g": 0.0, "sugar_g": 0.2}]
+
